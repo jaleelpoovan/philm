@@ -28,4 +28,4 @@
         android:drawablePadding="@dimen/spacing_micro"
         android:background="?android:attr/activatedBackgroundIndicator"
         android:minHeight="?android:attr/listPreferredItemHeightSmall"
-        philm:font="roboto_condensed" />
+         />
